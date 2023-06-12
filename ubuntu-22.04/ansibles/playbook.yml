@@ -7,7 +7,7 @@
         path: "/home/vagrant/.bashrc"
         line: "export PAGER=most"
 
-- name: "package installs"    # play
+- name: "package installs"
   hosts: all
   become: true                # elevate privileges
   tasks:
