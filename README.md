@@ -1,3 +1,3 @@
 # Vagrant
 
-VM deployments using Vagrant.
+Automate VM deployments using Vagrant.
